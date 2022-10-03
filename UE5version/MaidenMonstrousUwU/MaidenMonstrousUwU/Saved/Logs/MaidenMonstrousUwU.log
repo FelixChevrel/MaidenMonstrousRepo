@@ -714,3 +714,85 @@ Recommended: 516.25
 [2022.10.03-11.34.22:995][  0]LogSlate: Took 0.000077 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
 [2022.10.03-11.35.04:587][895]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
 [2022.10.03-11.35.04:590][895]LogSlate: Took 0.000111 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.03-11.35.52:473][822]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.03-11.36.01:279][822]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.10.03-11.36.01:291][822]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.10.03-11.36.01:295][822]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.10.03-11.36.01:313][824]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.10.03-11.36.11:656][ 57]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Pawn_magical_girl
+[2022.10.03-11.36.11:663][ 57]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.10.03-11.36.12:160][109]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.002762 seconds
+[2022.10.03-11.36.12:165][109]LogSavePackage: Moving output files for package: /Game/Characters/BP_Pawn_magical_girl
+[2022.10.03-11.36.12:165][109]LogSavePackage: Moving '../../../../../../Users/felix.chevrel/Desktop/MaidenMonstrous/MaidenMonstrousRepo/UE5version/MaidenMonstrousUwU/MaidenMonstrousUwU/Saved/BP_Pawn_magical_girl21C6FA154AC8DAA4947DAAA7D6A5091E.tmp' to '../../../../../../Users/felix.chevrel/Desktop/MaidenMonstrous/MaidenMonstrousRepo/UE5version/MaidenMonstrousUwU/MaidenMonstrousUwU/Content/Characters/BP_Pawn_magical_girl.uasset'
+[2022.10.03-11.36.12:175][109]AssetCheck: New page: Asset Save: BP_Pawn_magical_girl
+[2022.10.03-11.36.12:176][109]LogContentValidation: Display: Validating Blueprint /Game/Characters/BP_Pawn_magical_girl.BP_Pawn_magical_girl
+[2022.10.03-11.36.13:498][261]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/BP_Pawn_magical_girl.BP_Pawn_magical_girl
+[2022.10.03-11.36.13:499][261]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.03-11.36.14:419][261]LogViewport: Scene viewport resized to 588x202, mode Windowed.
+[2022.10.03-11.36.15:967][402]LogDerivedDataCache: C:/Users/felix.chevrel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.283 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.03-11.36.16:206][423]LogViewport: Scene viewport resized to 1141x693, mode Windowed.
+[2022.10.03-11.36.17:616][544]LogSlate: Took 0.004259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.10.03-11.36.29:900][437]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.03-11.36.31:987][601]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.03-11.36.48:331][961]BlueprintLog: New page: Compile BP_Pawn_magical_girl
+[2022.10.03-11.36.48:364][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.10.03-11.36.48:414][962]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.03-11.36.48:839][991]LogSavePackage: Moving output files for package: /Game/Characters/BP_Pawn_magical_girl
+[2022.10.03-11.36.48:840][991]LogSavePackage: Moving '../../../../../../Users/felix.chevrel/Desktop/MaidenMonstrous/MaidenMonstrousRepo/UE5version/MaidenMonstrousUwU/MaidenMonstrousUwU/Saved/BP_Pawn_magical_girlA5B4DF77477D95A600BD8199B0B870C1.tmp' to '../../../../../../Users/felix.chevrel/Desktop/MaidenMonstrous/MaidenMonstrousRepo/UE5version/MaidenMonstrousUwU/MaidenMonstrousUwU/Content/Characters/BP_Pawn_magical_girl.uasset'
+[2022.10.03-11.36.48:855][991]AssetCheck: New page: Asset Save: BP_Pawn_magical_girl
+[2022.10.03-11.36.48:855][991]LogContentValidation: Display: Validating Blueprint /Game/Characters/BP_Pawn_magical_girl.BP_Pawn_magical_girl
+[2022.10.03-11.38.19:567][301]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/felix.chevrel/Desktop/MaidenMonstrous/MaidenMonstrousRepo/UE5version/MaidenMonstrousUwU/MaidenMonstrousUwU/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2022.10.03-11.38.19:567][301]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/felix.chevrel/Desktop/MaidenMonstrous/MaidenMonstrousRepo/UE5version/MaidenMonstrousUwU/MaidenMonstrousUwU/Content/Developers/felixchevrel/Collections/' because it could not be accessed. Aborting watch request...
+[2022.10.03-11.38.19:567][301]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/felix.chevrel/Desktop/MaidenMonstrous/MaidenMonstrousRepo/UE5version/MaidenMonstrousUwU/MaidenMonstrousUwU/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2022.10.03-11.38.45:452][711]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.03-11.38.46:954][877]LogMaterial: Display: Missing cached shadermap for Mat_BungeeMan_Body in PCD3D_SM5, Default, SM5 (DDC key hash: F45E70E90F113377D6271C65EDD33F9EB262D03A), compiling. 
+[2022.10.03-11.38.47:029][877]LogMaterial: Display: Missing cached shadermap for Mat_BungeeMan_Rubber in PCD3D_SM5, Default, SM5 (DDC key hash: EE44257CB63618D9440A17F4C7030B5ED120DF67), compiling. 
+[2022.10.03-11.38.47:056][877]LogSkeletalMesh: Building Skeletal Mesh SKM_BungeeMan...
+[2022.10.03-11.38.47:075][877]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_BungeeMan) ...
+[2022.10.03-11.38.47:489][877]LogSkeletalMesh: Built Skeletal Mesh [0.43s] /Game/BungeeMan/SKM_BungeeMan.SKM_BungeeMan
+[2022.10.03-11.38.49:517][934]LogShaderCompilers: Display: ================================================
+[2022.10.03-11.38.49:517][934]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.03-11.38.49:517][934]LogShaderCompilers: Display: Total job queries 64, among them cache hits 0 (0.00%)
+[2022.10.03-11.38.49:517][934]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.10.03-11.38.49:517][934]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.10.03-11.38.49:517][934]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.03-11.38.49:517][934]LogShaderCompilers: Display: Shaders Compiled: 64
+[2022.10.03-11.38.49:517][934]LogShaderCompilers: Display: Jobs assigned 64, completed 1 (1.56%)
+[2022.10.03-11.38.49:517][934]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.09 s
+[2022.10.03-11.38.49:517][934]LogShaderCompilers: Display: Job execution time: average 2.39 s, max 2.39 s
+[2022.10.03-11.38.49:517][934]LogShaderCompilers: Display: Job life time (pending + execution): average 2.47 s, max 2.47
+[2022.10.03-11.38.49:517][934]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.47 s
+[2022.10.03-11.38.49:517][934]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 8.00 jobs/batch
+[2022.10.03-11.38.49:517][934]LogShaderCompilers: Display: Average processing rate: 0.40 jobs/sec
+[2022.10.03-11.38.49:517][934]LogShaderCompilers: Display: Effective parallelization: 0.69 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.10.03-11.38.49:517][934]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2022.10.03-11.38.49:517][934]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 1.70 sec, max 1.70 sec, min 1.70 sec)
+[2022.10.03-11.38.49:517][934]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2022.10.03-11.38.49:517][934]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 100.00% of total time (compiled    1 times, average 1.70 sec, max 1.70 sec, min 1.70 sec)
+[2022.10.03-11.38.49:517][934]LogShaderCompilers: Display: ================================================
+[2022.10.03-11.38.55:463][ 96]BlueprintLog: New page: Compile BP_Pawn_magical_girl
+[2022.10.03-11.38.55:542][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.10.03-11.38.55:703][ 97]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.03-11.38.56:449][114]LogSavePackage: Moving output files for package: /Game/Characters/BP_Pawn_magical_girl
+[2022.10.03-11.38.56:450][114]LogSavePackage: Moving '../../../../../../Users/felix.chevrel/Desktop/MaidenMonstrous/MaidenMonstrousRepo/UE5version/MaidenMonstrousUwU/MaidenMonstrousUwU/Saved/BP_Pawn_magical_girl7B4F2644472EEA65B1002F9FC4EC1BCC.tmp' to '../../../../../../Users/felix.chevrel/Desktop/MaidenMonstrous/MaidenMonstrousRepo/UE5version/MaidenMonstrousUwU/MaidenMonstrousUwU/Content/Characters/BP_Pawn_magical_girl.uasset'
+[2022.10.03-11.38.56:480][114]AssetCheck: New page: Asset Save: BP_Pawn_magical_girl
+[2022.10.03-11.38.56:480][114]LogContentValidation: Display: Validating Blueprint /Game/Characters/BP_Pawn_magical_girl.BP_Pawn_magical_girl
+[2022.10.03-11.38.58:699][173]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.03-11.38.58:777][174]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.03-11.38.58:972][180]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.03-11.38.59:361][194]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.03-11.38.59:447][196]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.03-11.38.59:507][197]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.03-11.38.59:571][198]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.03-11.38.59:621][199]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.03-11.38.59:663][200]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.03-11.38.59:709][201]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.03-11.38.59:757][202]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.03-11.39.21:692][832]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Characters/BP_Pawn_magical_girl.BP_Pawn_magical_girl_C
+[2022.10.03-11.39.21:692][832]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Characters/BP_Pawn_magical_girl.BP_Pawn_magical_girl_C
+[2022.10.03-11.39.21:694][832]LogActorFactory: Actor Factory spawned Blueprint /Game/Characters/BP_Pawn_magical_girl.BP_Pawn_magical_girl as actor: BP_Pawn_magical_girl_C /Game/Maps/Test/TestMap1.TestMap1:PersistentLevel.BP_Pawn_magical_girl_C_0
+[2022.10.03-11.39.21:694][832]LogActorFactory: Actor Factory spawned Blueprint /Game/Characters/BP_Pawn_magical_girl.BP_Pawn_magical_girl as actor: BP_Pawn_magical_girl_C /Game/Maps/Test/TestMap1.TestMap1:PersistentLevel.BP_Pawn_magical_girl_C_0
+[2022.10.03-11.39.24:027][107]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Characters/BP_Pawn_magical_girl.BP_Pawn_magical_girl_C
+[2022.10.03-11.39.24:027][107]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Characters/BP_Pawn_magical_girl.BP_Pawn_magical_girl_C
+[2022.10.03-11.39.24:029][107]LogActorFactory: Actor Factory spawned Blueprint /Game/Characters/BP_Pawn_magical_girl.BP_Pawn_magical_girl as actor: BP_Pawn_magical_girl_C /Game/Maps/Test/TestMap1.TestMap1:PersistentLevel.BP_Pawn_magical_girl_C_1
+[2022.10.03-11.39.24:029][107]LogActorFactory: Actor Factory spawned Blueprint /Game/Characters/BP_Pawn_magical_girl.BP_Pawn_magical_girl as actor: BP_Pawn_magical_girl_C /Game/Maps/Test/TestMap1.TestMap1:PersistentLevel.BP_Pawn_magical_girl_C_1
